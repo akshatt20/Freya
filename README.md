@@ -3,6 +3,7 @@
 ## What is Freya?
 
 Freya is an innovative cross-chain interoperability protocol that enables seamless token transfers between different super chain blockchain networks like Base, Optimism, Unichain, etc. It provides a secure and efficient way to swap and bridge tokens across multiple blockchain ecosystems, making cross-chain transactions accessible and user-friendly by utilizing AI agents.
+Freya is a cross-chain protocol that enables secure, efficient, and AI-powered token swaps and bridging across OP Stack-based super chains. It’s designed to make multi-chain operations seamless and user-friendly.
 
 ## What does Freya do?
 
@@ -30,7 +31,6 @@ Freya operates through a sophisticated system of smart contracts and AI agents:
    - Cross-chain minting of equivalent tokens
    - Secure burning of tokens on the source chain
    - Maintaining token supply consistency across chains
-![image](https://github.com/user-attachments/assets/6d0f0dee-3148-4242-85f3-c288c5cba6e1)
 
 ## Working of the superERC20 token contracts
 
